@@ -1,6 +1,5 @@
-const V='dash-v1';
-const SHELL=['./','./index.html','./manifest.webmanifest','./icon.svg',
-             'https://cdn.jsdelivr.net/npm/qrcode@1.5.3/build/qrcode.min.js'];
+const V='dash-v2';
+const SHELL=['./','./index.html','./manifest.webmanifest','./icon.svg','./qrcode.js'];
 
 self.addEventListener('install',e=>{
   e.waitUntil((async()=>{
