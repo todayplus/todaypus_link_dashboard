@@ -1,0 +1,132 @@
+{
+  "todaypus_link_dashboard": {
+    "url": "https://todayplus.github.io/todaypus_link_dashboard/",
+    "pushed": "2026-08-11T05:37:25Z",
+    "repo": "https://github.com/todayplus/todaypus_link_dashboard",
+    "title": "배포 URL 대시보드",
+    "autoDesc": "",
+    "ok": true,
+    "code": 200,
+    "checked": "2026-08-11T05:45:49.754Z"
+  },
+  "Innovative-Product-Designation-System": {
+    "url": "https://todayplus.github.io/Innovative-Product-Designation-System/",
+    "pushed": "2026-08-08T14:38:52Z",
+    "repo": "https://github.com/todayplus/Innovative-Product-Designation-System",
+    "title": "혁신시제품 지정제도 안내",
+    "autoDesc": "",
+    "ok": true,
+    "code": 200,
+    "checked": "2026-08-11T05:45:49.802Z"
+  },
+  "PPS-Excellent-Product-Certification-System": {
+    "url": "https://todayplus.github.io/PPS-Excellent-Product-Certification-System/",
+    "pushed": "2026-08-08T13:19:04Z",
+    "repo": "https://github.com/todayplus/PPS-Excellent-Product-Certification-System",
+    "title": "우수조달물품(우수제품) 지정제도",
+    "autoDesc": "",
+    "ok": true,
+    "code": 200,
+    "checked": "2026-08-11T05:45:49.843Z"
+  },
+  "patent-trademark-design": {
+    "url": "https://todayplus.github.io/patent-trademark-design/",
+    "pushed": "2026-08-07T02:43:26Z",
+    "repo": "https://github.com/todayplus/patent-trademark-design",
+    "title": "지식재산 심사 특례제도 안내",
+    "autoDesc": "특허·상표·디자인 우선심사, 일괄심사, 비밀디자인, 일부심사등록, 신속심사 제도 총정리",
+    "ok": true,
+    "code": 200,
+    "checked": "2026-08-11T05:45:49.878Z"
+  },
+  "TIPS": {
+    "url": "https://todayplus.github.io/TIPS/",
+    "pushed": "2026-08-07T02:25:57Z",
+    "repo": "https://github.com/todayplus/TIPS",
+    "title": "TIPS 프로그램 안내 2026",
+    "autoDesc": "민간투자주도형 기술창업지원(TIPS) 2026년 개편 기준 — 사업 종류·지원 규모·매칭 조건 총정리",
+    "ok": true,
+    "code": 200,
+    "checked": "2026-08-11T05:45:49.914Z"
+  },
+  "KEIT_TIPA_KIAT": {
+    "url": "https://todayplus.github.io/KEIT_TIPA_KIAT/",
+    "pushed": "2026-08-06T09:20:19Z",
+    "repo": "https://github.com/todayplus/KEIT_TIPA_KIAT",
+    "title": "R&D 지원기관 링크 대시보드",
+    "autoDesc": "KEIT · TIPA · KIAT 주요 공고 및 자료 페이지 바로가기",
+    "ok": true,
+    "code": 200,
+    "checked": "2026-08-11T05:45:49.959Z"
+  },
+  "TRADESECRET-GUIDE": {
+    "url": "https://todayplus.github.io/TRADESECRET-GUIDE/",
+    "pushed": "2026-08-01T10:17:26Z",
+    "repo": "https://github.com/todayplus/TRADESECRET-GUIDE",
+    "title": "영업비밀 원본증명서비스 안내",
+    "autoDesc": "영업비밀 원본증명제도의 개요, 법적효력, 시스템 기능, 이용방식, 이용절차 및 요금 안내",
+    "ok": true,
+    "code": 200,
+    "checked": "2026-08-11T05:45:49.992Z"
+  },
+  "KESCROW-GUIDE": {
+    "url": "https://todayplus.github.io/KESCROW-GUIDE/",
+    "pushed": "2026-08-01T10:15:30Z",
+    "repo": "https://github.com/todayplus/KESCROW-GUIDE",
+    "title": "기술자료 임치제도 안내",
+    "autoDesc": "기술자료 임치제도의 개요, 임치대상, 기대효과, 이용절차, 수수료 및 지원 안내",
+    "ok": true,
+    "code": 200,
+    "checked": "2026-08-11T05:45:50.013Z"
+  },
+  "sk-0730-doc": {
+    "url": "https://todayplus.github.io/sk-0730-doc/",
+    "pushed": "2026-07-30T04:30:50Z",
+    "repo": "https://github.com/todayplus/sk-0730-doc",
+    "title": "내부 검토자료 (열람 제한)",
+    "autoDesc": "",
+    "ok": true,
+    "code": 200,
+    "checked": "2026-08-11T05:45:50.243Z"
+  },
+  "NET-GUIDE": {
+    "url": "https://todayplus.github.io/NET-GUIDE/",
+    "pushed": "2026-07-29T07:04:23Z",
+    "repo": "https://github.com/todayplus/NET-GUIDE",
+    "title": "신기술(NET) 지정제도 통합 가이드",
+    "autoDesc": "",
+    "ok": true,
+    "code": 200,
+    "checked": "2026-08-11T05:45:50.263Z"
+  },
+  "NEP-GUIDE": {
+    "url": "https://todayplus.github.io/NEP-GUIDE/",
+    "pushed": "2026-07-29T07:01:28Z",
+    "repo": "https://github.com/todayplus/NEP-GUIDE",
+    "title": "NEP(신제품) 지정 통합 안내",
+    "autoDesc": "",
+    "ok": true,
+    "code": 200,
+    "checked": "2026-08-11T05:45:50.301Z"
+  },
+  "Insurance-Product-Categorization": {
+    "url": "https://todayplus.github.io/Insurance-Product-Categorization/",
+    "pushed": "2026-07-29T02:21:50Z",
+    "repo": "https://github.com/todayplus/Insurance-Product-Categorization",
+    "title": "보험 용어 상세 정리",
+    "autoDesc": "",
+    "ok": true,
+    "code": 200,
+    "checked": "2026-08-11T05:45:50.324Z"
+  },
+  "2026-lips-program": {
+    "url": "https://todayplus.github.io/2026-lips-program/",
+    "pushed": "2026-06-03T20:43:51Z",
+    "repo": "https://github.com/todayplus/2026-lips-program",
+    "title": "2026년 소상공인 투자연계 지원사업(LIPS) — 프로그램 종합 브리프",
+    "autoDesc": "",
+    "ok": true,
+    "code": 200,
+    "checked": "2026-08-11T05:45:50.352Z"
+  }
+}
