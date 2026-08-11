@@ -288,10 +288,14 @@ font-size:11.5px;color:var(--dim);line-height:1.9}
 /* ══════════ 설정 ══════════ */
 const OWNER='todayplus', SELF='todayplus.github.io';
 const CFG={
-  lock:false,          // ← true 로 바꾸면 비밀번호 잠금 켜짐
-  hash:'',             // ← 비밀번호의 SHA-256 값 (아래 안내 참고)
-  staleDays:180,       // 이 일수 이상 수정 없으면 '오래된 페이지'
-  qrLib:'https://cdn.jsdelivr.net/npm/qrcode@1.5.3/build/qrcode.min.js'
+  lock:false,
+  hash:'',
+  staleDays:180,
+  qrLibs:[                                   // ← 위에서부터 순서대로 시도
+    './qrcode.js',
+    'https://cdn.jsdelivr.net/npm/qrcode-generator@1.4.4/qrcode.js',
+    'https://unpkg.com/qrcode-generator@1.4.4/qrcode.js'
+  ]
 };
 
 /* ══════════ 공통 ══════════ */
@@ -517,16 +521,43 @@ function renderRep(){
 }
 
 /* ══════════ 1. QR ══════════ */
-function loadQR(){return new Promise((res,rej)=>{
-  if(window.QRCode)return res();
-  const s=document.createElement('script');s.src=CFG.qrLib;s.onload=res;s.onerror=rej;document.head.appendChild(s);
+function one(src){return new Promise((res,rej)=>{
+  const s=document.createElement('script');
+  s.src=src; s.async=true;
+  s.onload=()=>window.qrcode?res():rej();
+  s.onerror=rej;
+  document.head.appendChild(s);
 })}
+async function loadQR(){
+  if(window.qrcode) return true;
+  for(const u of CFG.qrLibs){ try{ await one(u); return true; }catch(e){} }
+  return false;
+}
+function drawQR(cv,text,size){
+  let q,type=0;
+  for(let t=4;t<=40;t++){                     // 길이에 맞는 버전 자동 선택
+    try{ q=qrcode(t,'M'); q.addData(text); q.make(); type=t; break; }catch(e){}
+  }
+  if(!type) throw new Error('QR 생성 실패');
+  const n=q.getModuleCount(), quiet=4, total=n+quiet*2;
+  const px=Math.max(2,Math.floor(size/total)), w=px*total;
+  cv.width=w; cv.height=w; cv.style.width=w+'px'; cv.style.height=w+'px';
+  const g=cv.getContext('2d');
+  g.fillStyle='#fff'; g.fillRect(0,0,w,w);
+  g.fillStyle='#000';
+  for(let r=0;r<n;r++) for(let c=0;c<n;c++)
+    if(q.isDark(r,c)) g.fillRect((c+quiet)*px,(r+quiet)*px,px,px);
+}
 async function showQR(url,title){
-  QRURL=url;$('#qTitle').textContent=title||'QR 코드';$('#qurl').textContent=url;
+  QRURL=url;
+  $('#qTitle').textContent=title||'QR 코드';
+  $('#qurl').textContent=url;
   $('#qmask').classList.add('on');
-  try{await loadQR();
-    QRCode.toCanvas($('#qrc'),url,{width:240,margin:1,errorCorrectionLevel:'M'});
-  }catch(e){toast('QR 라이브러리를 불러오지 못했습니다 (네트워크 확인)')}
+  const cv=$('#qrc');
+  cv.getContext('2d').clearRect(0,0,cv.width,cv.height);
+  if(!await loadQR()) return toast('QR 라이브러리를 찾을 수 없습니다 — qrcode.js 파일을 확인하세요');
+  try{ drawQR(cv,url,260); }
+  catch(e){ toast('QR 생성에 실패했습니다: '+e.message); }
 }
 
 /* ══════════ 10. 공유 링크 / URL 상태 ══════════ */
