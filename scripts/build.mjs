@@ -1,6 +1,6 @@
 import fs from 'node:fs/promises';
 
-const OWNER='todayplus', SELF='todayplus_link_dashboard';
+const OWNER='todayplus', SELF='todaypus_link_dashboard';
 const TOKEN=process.env.GITHUB_TOKEN;
 const H={'User-Agent':'dash-builder', ...(TOKEN?{Authorization:`Bearer ${TOKEN}`}:{})};
 
