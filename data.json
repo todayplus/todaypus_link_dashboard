@@ -1,4 +1,14 @@
 {
+  "concert-calendar": {
+    "url": "https://todayplus.github.io/concert-calendar/",
+    "pushed": "2026-08-17T13:35:17Z",
+    "repo": "https://github.com/todayplus/concert-calendar",
+    "title": "지역별 콘서트 캘린더",
+    "autoDesc": "",
+    "ok": true,
+    "code": 200,
+    "checked": "2026-08-17T19:19:27.906Z"
+  },
   "innobiz-mainbiz-venture": {
     "url": "https://todayplus.github.io/innobiz-mainbiz-venture/",
     "pushed": "2026-08-14T15:45:15Z",
@@ -7,7 +17,7 @@
     "autoDesc": "",
     "ok": true,
     "code": 200,
-    "checked": "2026-08-16T19:12:12.181Z"
+    "checked": "2026-08-17T19:19:27.986Z"
   },
   "food-master": {
     "url": "https://todayplus.github.io/food-master/",
@@ -17,7 +27,7 @@
     "autoDesc": "",
     "ok": true,
     "code": 200,
-    "checked": "2026-08-16T19:12:12.294Z"
+    "checked": "2026-08-17T19:19:28.145Z"
   },
   "Scheduling-app": {
     "url": "https://todayplus.github.io/Scheduling-app/",
@@ -27,7 +37,7 @@
     "autoDesc": "",
     "ok": true,
     "code": 200,
-    "checked": "2026-08-16T19:12:12.392Z"
+    "checked": "2026-08-17T19:19:28.211Z"
   },
   "MAS": {
     "url": "https://todayplus.github.io/MAS/",
@@ -37,7 +47,7 @@
     "autoDesc": "",
     "ok": true,
     "code": 200,
-    "checked": "2026-08-16T19:12:12.484Z"
+    "checked": "2026-08-17T19:19:28.452Z"
   },
   "Innovative-Product-Designation-System": {
     "url": "https://todayplus.github.io/Innovative-Product-Designation-System/",
@@ -47,7 +57,7 @@
     "autoDesc": "",
     "ok": true,
     "code": 200,
-    "checked": "2026-08-16T19:12:12.628Z"
+    "checked": "2026-08-17T19:19:28.552Z"
   },
   "PPS-Excellent-Product-Certification-System": {
     "url": "https://todayplus.github.io/PPS-Excellent-Product-Certification-System/",
@@ -57,7 +67,7 @@
     "autoDesc": "",
     "ok": true,
     "code": 200,
-    "checked": "2026-08-16T19:12:12.736Z"
+    "checked": "2026-08-17T19:19:28.657Z"
   },
   "patent-trademark-design": {
     "url": "https://todayplus.github.io/patent-trademark-design/",
@@ -67,7 +77,7 @@
     "autoDesc": "특허·상표·디자인 우선심사, 일괄심사, 비밀디자인, 일부심사등록, 신속심사 제도 총정리",
     "ok": true,
     "code": 200,
-    "checked": "2026-08-16T19:12:12.826Z"
+    "checked": "2026-08-17T19:19:28.737Z"
   },
   "TIPS": {
     "url": "https://todayplus.github.io/TIPS/",
@@ -77,7 +87,7 @@
     "autoDesc": "민간투자주도형 기술창업지원(TIPS) 2026년 개편 기준 — 사업 종류·지원 규모·매칭 조건 총정리",
     "ok": true,
     "code": 200,
-    "checked": "2026-08-16T19:12:12.916Z"
+    "checked": "2026-08-17T19:19:28.809Z"
   },
   "KEIT_TIPA_KIAT": {
     "url": "https://todayplus.github.io/KEIT_TIPA_KIAT/",
@@ -87,7 +97,7 @@
     "autoDesc": "KEIT · TIPA · KIAT 주요 공고 및 자료 페이지 바로가기",
     "ok": true,
     "code": 200,
-    "checked": "2026-08-16T19:12:12.992Z"
+    "checked": "2026-08-17T19:19:28.879Z"
   },
   "TRADESECRET-GUIDE": {
     "url": "https://todayplus.github.io/TRADESECRET-GUIDE/",
@@ -97,7 +107,7 @@
     "autoDesc": "영업비밀 원본증명제도의 개요, 법적효력, 시스템 기능, 이용방식, 이용절차 및 요금 안내",
     "ok": true,
     "code": 200,
-    "checked": "2026-08-16T19:12:13.078Z"
+    "checked": "2026-08-17T19:19:28.952Z"
   },
   "KESCROW-GUIDE": {
     "url": "https://todayplus.github.io/KESCROW-GUIDE/",
@@ -107,7 +117,7 @@
     "autoDesc": "기술자료 임치제도의 개요, 임치대상, 기대효과, 이용절차, 수수료 및 지원 안내",
     "ok": true,
     "code": 200,
-    "checked": "2026-08-16T19:12:13.157Z"
+    "checked": "2026-08-17T19:19:29.014Z"
   },
   "sk-0730-doc": {
     "url": "https://todayplus.github.io/sk-0730-doc/",
@@ -117,7 +127,7 @@
     "autoDesc": "",
     "ok": true,
     "code": 200,
-    "checked": "2026-08-16T19:12:13.261Z"
+    "checked": "2026-08-17T19:19:29.096Z"
   },
   "NET-GUIDE": {
     "url": "https://todayplus.github.io/NET-GUIDE/",
@@ -127,7 +137,7 @@
     "autoDesc": "",
     "ok": true,
     "code": 200,
-    "checked": "2026-08-16T19:12:13.350Z"
+    "checked": "2026-08-17T19:19:29.156Z"
   },
   "NEP-GUIDE": {
     "url": "https://todayplus.github.io/NEP-GUIDE/",
@@ -137,7 +147,7 @@
     "autoDesc": "",
     "ok": true,
     "code": 200,
-    "checked": "2026-08-16T19:12:13.441Z"
+    "checked": "2026-08-17T19:19:29.250Z"
   },
   "Insurance-Product-Categorization": {
     "url": "https://todayplus.github.io/Insurance-Product-Categorization/",
@@ -147,7 +157,7 @@
     "autoDesc": "",
     "ok": true,
     "code": 200,
-    "checked": "2026-08-16T19:12:13.520Z"
+    "checked": "2026-08-17T19:19:29.328Z"
   },
   "2026-lips-program": {
     "url": "https://todayplus.github.io/2026-lips-program/",
@@ -157,6 +167,6 @@
     "autoDesc": "",
     "ok": true,
     "code": 200,
-    "checked": "2026-08-16T19:12:13.616Z"
+    "checked": "2026-08-17T19:19:29.406Z"
   }
 }
