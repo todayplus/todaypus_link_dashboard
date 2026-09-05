@@ -1,4 +1,24 @@
 {
+  "GN7_MANUAL": {
+    "url": "https://todayplus.github.io/GN7_MANUAL/",
+    "pushed": "2026-09-05T14:25:44Z",
+    "repo": "https://github.com/todayplus/GN7_MANUAL",
+    "title": "그랜저 GN7 사용 가이드 — 스마트키 버튼 가이드 포함",
+    "autoDesc": "그랜저 GN7 하이브리드 신차 인수 가이드(영업사원 설명 + 공식 매뉴얼 보충) + 스마트키 7개 버튼 사용법 (사진+표)",
+    "ok": true,
+    "code": 200,
+    "checked": "2026-09-05T20:47:25.537Z"
+  },
+  "concert-calendar": {
+    "url": "https://todayplus.github.io/concert-calendar/",
+    "pushed": "2026-09-04T22:50:18Z",
+    "repo": "https://github.com/todayplus/concert-calendar",
+    "title": "지역별 콘서트 캘린더",
+    "autoDesc": "",
+    "ok": true,
+    "code": 200,
+    "checked": "2026-09-05T20:47:25.595Z"
+  },
   "IP-Office-Fee-Schedule": {
     "url": "https://todayplus.github.io/IP-Office-Fee-Schedule/",
     "pushed": "2026-09-04T10:24:19Z",
@@ -7,27 +27,7 @@
     "autoDesc": "특허로(patent.go.kr) 수수료정보안내를 반응형으로 재구성한 페이지입니다. 출원료, 등록료, 심판청구료, PCT/마드리드/헤이그 국제출원 수수료, 감면 안내를 검색하고 즐겨찾기 할 수 있습니다.",
     "ok": true,
     "code": 200,
-    "checked": "2026-09-04T21:06:58.239Z"
-  },
-  "concert-calendar": {
-    "url": "https://todayplus.github.io/concert-calendar/",
-    "pushed": "2026-09-03T23:20:14Z",
-    "repo": "https://github.com/todayplus/concert-calendar",
-    "title": "지역별 콘서트 캘린더",
-    "autoDesc": "",
-    "ok": true,
-    "code": 200,
-    "checked": "2026-09-04T21:06:58.284Z"
-  },
-  "GN7_MANUAL": {
-    "url": "https://todayplus.github.io/GN7_MANUAL/",
-    "pushed": "2026-09-03T14:59:56Z",
-    "repo": "https://github.com/todayplus/GN7_MANUAL",
-    "title": "그랜저 GN7 사용 가이드",
-    "autoDesc": "그랜저 GN7 하이브리드 신차 인수 가이드 — 영업사원 설명 + 공식 매뉴얼 보충 정리",
-    "ok": true,
-    "code": 200,
-    "checked": "2026-09-04T21:06:58.352Z"
+    "checked": "2026-09-05T20:47:25.654Z"
   },
   "invest-seoul": {
     "url": "https://todayplus.github.io/invest-seoul/",
@@ -37,7 +37,7 @@
     "autoDesc": "",
     "ok": true,
     "code": 200,
-    "checked": "2026-09-04T21:06:58.420Z"
+    "checked": "2026-09-05T20:47:25.733Z"
   },
   "innobiz-mainbiz-venture": {
     "url": "https://todayplus.github.io/innobiz-mainbiz-venture/",
@@ -47,7 +47,7 @@
     "autoDesc": "",
     "ok": true,
     "code": 200,
-    "checked": "2026-09-04T21:06:58.467Z"
+    "checked": "2026-09-05T20:47:25.801Z"
   },
   "food-master": {
     "url": "https://todayplus.github.io/food-master/",
@@ -57,7 +57,7 @@
     "autoDesc": "",
     "ok": true,
     "code": 200,
-    "checked": "2026-09-04T21:06:58.517Z"
+    "checked": "2026-09-05T20:47:25.863Z"
   },
   "Scheduling-app": {
     "url": "https://todayplus.github.io/Scheduling-app/",
@@ -67,7 +67,7 @@
     "autoDesc": "",
     "ok": true,
     "code": 200,
-    "checked": "2026-09-04T21:06:58.560Z"
+    "checked": "2026-09-05T20:47:25.929Z"
   },
   "MAS": {
     "url": "https://todayplus.github.io/MAS/",
@@ -77,7 +77,7 @@
     "autoDesc": "",
     "ok": true,
     "code": 200,
-    "checked": "2026-09-04T21:06:58.613Z"
+    "checked": "2026-09-05T20:47:25.992Z"
   },
   "Innovative-Product-Designation-System": {
     "url": "https://todayplus.github.io/Innovative-Product-Designation-System/",
@@ -87,7 +87,7 @@
     "autoDesc": "",
     "ok": true,
     "code": 200,
-    "checked": "2026-09-04T21:06:58.656Z"
+    "checked": "2026-09-05T20:47:26.066Z"
   },
   "PPS-Excellent-Product-Certification-System": {
     "url": "https://todayplus.github.io/PPS-Excellent-Product-Certification-System/",
@@ -97,7 +97,7 @@
     "autoDesc": "",
     "ok": true,
     "code": 200,
-    "checked": "2026-09-04T21:06:58.704Z"
+    "checked": "2026-09-05T20:47:26.148Z"
   },
   "patent-trademark-design": {
     "url": "https://todayplus.github.io/patent-trademark-design/",
@@ -107,7 +107,7 @@
     "autoDesc": "특허·상표·디자인 우선심사, 일괄심사, 비밀디자인, 일부심사등록, 신속심사 제도 총정리",
     "ok": true,
     "code": 200,
-    "checked": "2026-09-04T21:06:58.748Z"
+    "checked": "2026-09-05T20:47:26.215Z"
   },
   "TIPS": {
     "url": "https://todayplus.github.io/TIPS/",
@@ -117,7 +117,7 @@
     "autoDesc": "민간투자주도형 기술창업지원(TIPS) 2026년 개편 기준 — 사업 종류·지원 규모·매칭 조건 총정리",
     "ok": true,
     "code": 200,
-    "checked": "2026-09-04T21:06:58.801Z"
+    "checked": "2026-09-05T20:47:26.274Z"
   },
   "KEIT_TIPA_KIAT": {
     "url": "https://todayplus.github.io/KEIT_TIPA_KIAT/",
@@ -127,7 +127,7 @@
     "autoDesc": "KEIT · TIPA · KIAT 주요 공고 및 자료 페이지 바로가기",
     "ok": true,
     "code": 200,
-    "checked": "2026-09-04T21:06:58.851Z"
+    "checked": "2026-09-05T20:47:26.336Z"
   },
   "TRADESECRET-GUIDE": {
     "url": "https://todayplus.github.io/TRADESECRET-GUIDE/",
@@ -137,7 +137,7 @@
     "autoDesc": "영업비밀 원본증명제도의 개요, 법적효력, 시스템 기능, 이용방식, 이용절차 및 요금 안내",
     "ok": true,
     "code": 200,
-    "checked": "2026-09-04T21:06:58.892Z"
+    "checked": "2026-09-05T20:47:26.401Z"
   },
   "KESCROW-GUIDE": {
     "url": "https://todayplus.github.io/KESCROW-GUIDE/",
@@ -147,7 +147,7 @@
     "autoDesc": "기술자료 임치제도의 개요, 임치대상, 기대효과, 이용절차, 수수료 및 지원 안내",
     "ok": true,
     "code": 200,
-    "checked": "2026-09-04T21:06:58.932Z"
+    "checked": "2026-09-05T20:47:26.474Z"
   },
   "sk-0730-doc": {
     "url": "https://todayplus.github.io/sk-0730-doc/",
@@ -157,7 +157,7 @@
     "autoDesc": "",
     "ok": true,
     "code": 200,
-    "checked": "2026-09-04T21:06:58.980Z"
+    "checked": "2026-09-05T20:47:26.552Z"
   },
   "NET-GUIDE": {
     "url": "https://todayplus.github.io/NET-GUIDE/",
@@ -167,7 +167,7 @@
     "autoDesc": "",
     "ok": true,
     "code": 200,
-    "checked": "2026-09-04T21:06:59.049Z"
+    "checked": "2026-09-05T20:47:26.609Z"
   },
   "NEP-GUIDE": {
     "url": "https://todayplus.github.io/NEP-GUIDE/",
@@ -177,7 +177,7 @@
     "autoDesc": "",
     "ok": true,
     "code": 200,
-    "checked": "2026-09-04T21:06:59.096Z"
+    "checked": "2026-09-05T20:47:26.681Z"
   },
   "Insurance-Product-Categorization": {
     "url": "https://todayplus.github.io/Insurance-Product-Categorization/",
@@ -187,7 +187,7 @@
     "autoDesc": "",
     "ok": true,
     "code": 200,
-    "checked": "2026-09-04T21:06:59.160Z"
+    "checked": "2026-09-05T20:47:26.748Z"
   },
   "2026-lips-program": {
     "url": "https://todayplus.github.io/2026-lips-program/",
@@ -197,6 +197,6 @@
     "autoDesc": "",
     "ok": true,
     "code": 200,
-    "checked": "2026-09-04T21:06:59.209Z"
+    "checked": "2026-09-05T20:47:26.814Z"
   }
 }
